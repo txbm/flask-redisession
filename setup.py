@@ -26,7 +26,7 @@ setup(
 	install_requires=[
 		'Flask',
 		'Werkzeug',
-		'redis-py'
+		'redis'
 	],
 	classifiers=[
 		'Environment :: Web Environment',
